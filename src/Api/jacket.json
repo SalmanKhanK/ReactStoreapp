@@ -1,0 +1,120 @@
+{
+    "jacket-jordan-3-valor-blue12": {
+      "id":0,
+      "name": "VALOUR BLUE",
+      "price":50,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://www.thegenuineleather.com/wp-content/uploads/2019/08/Black-leather-jacket-for-men-1.jpg",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    },
+    "jacket-mars-270-london123": {
+      "id":1,
+      "name": "JORDAN MARS 270 LONDON",
+      "price":60,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://www.footeria.com/wp-content/uploads/2019/11/roy-harper-black-arrow-jacket-men-leather-jacket-celebrity-jackets-for-men.jpg1_.jpg",
+      "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+           "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+           "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+      ]
+    },
+    "jacket-jordan-1-zoom-racer-blue321": {
+      "id":2,
+      "name": "RACER BLUE",
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "price":30,
+      "quantity":[1,2,3,4],
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjqVaj1SOY6_rNEniyT8ab3pIF2SFCndg0Dw&usqp=CAU",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    },
+    "jacket-jordan-3-valor-blue1456": {
+      "id":3,
+      "name": "VALOUR BLUE",
+      "price":20,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFckyH5g1hilXQEBhg0tf0y8rUse3-OHlDOQ&usqp=CAU",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    },
+    "jacket-mars-270-london2876": {
+      "id":4,
+      "name": "JORDAN MARS 270 LONDON",
+      "price":60,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxpKJPHlxH0mmWiiLN4KI1Tnftbt3CZGo6wA&usqp=CAU",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    },
+    "jacket-jordan-1-zoom-racer-blue332": {
+      "id":5,
+      "name": "RACER BLUE",
+      "price":70,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVpac0DoCpyaUHPUYeZuWOOOZth0Nrso3eFg&usqp=CAU",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    },
+    "jacket-jordan-1-zoom-racer-blue423": {
+      "id":6,
+      "name": "RACER BLUE",
+      "price":30,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD9ip7pfx63THhCBk0H79bidRsB2BaLsXXdw&usqp=CAU",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    },
+ 
+    "jacket-jordan-1-zoom-racer-blue409": {
+      "id":7,
+      "name": "RACER BLUE",
+      "price":30,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy6xIkQ-phqHvHkkDSN1Sv26GeGoWtgYWtCg&usqp=CAU",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    },
+    "jacket-jordan-1-zoom-racer-blue437": {
+      "id":8,
+      "name": "RACER BLUE",
+      "price":30,
+      "quantity":[1,2,3,4],
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion",
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNW3bFQ19XtI53qr3S9m9TGDmOWz1o-4MrGw&usqp=CAU",
+        "imgGallery":["https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+     ]
+    }
+  }

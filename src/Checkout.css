@@ -1,0 +1,36 @@
+.centertag{
+    text-align: center;
+}
+.ShippingColor{
+    background-color:black;
+    color: white;
+    height: 50px;
+    padding: 15px 25px;
+}
+.YourCart{
+    background-color:lightgray;
+    color: black;
+    height: 50px;
+    padding: 15px 25px;
+}
+.mt{
+    margin-top: 20px;
+}
+.total{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.myCart{
+  
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 8px;
+
+}
+.center{
+    margin-top: 100px;
+    text-align: center;
+    
+}
